@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Hirun+Mihisara+Kariyawasam;From+Galle,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Nisith Sirithunga</h1>
 <h3 align="center">A passionate Web/Data enthusiast in SRI LANKA.</h3>
 
