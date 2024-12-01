@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋! My name is Aabiskar Regmi.<br>
-  Computer Engineering Student<br>
-  Pashchimanchal Campus, Pokhara</h2>
+<h2 align="center">Hi 👋! My name is Nisith Sirithunga.<br>
+  Web Enthusiast<br>
+  From Galle, Sri Lanka</h2>
 
 
 <div align="center">
@@ -40,13 +40,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/aabiskar_._regmi/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/abhisheque.regmi" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://x.com/aabiskaregmi" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
