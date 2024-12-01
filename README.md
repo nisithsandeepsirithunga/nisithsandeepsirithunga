@@ -1,6 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nisith Sirithunga.<br>
-  Web Enthusiast<br>
-  From Galle, Sri Lanka</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Nisith+Sandeeo+Sirithunga;From+Galle+SRILANKA+!!)](https://git.io/typing-svg)
 
 
 <div align="center">
