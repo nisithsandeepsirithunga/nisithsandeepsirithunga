@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Nisith+Sandeep+Sirithunga;From+Galle+SRILANKA+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Nisith+Sandeep+Sirithunga;From+Galle+SRILANKA+!!)](https://git.io/typing-svg)
 
 
 <div align="center">
